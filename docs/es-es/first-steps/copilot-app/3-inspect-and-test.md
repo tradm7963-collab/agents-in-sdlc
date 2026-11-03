@@ -51,7 +51,7 @@ Comprueba **Context** a medida que crece la sesión. Cuando se llena, al agente 
 El explorador integrado es un explorador real, así que el agente puede manejar el cuestionario y comprobar su comportamiento. Envía el siguiente prompt:
 
 ```plaintext
-Run a browser-level smoke test for the quiz in the integrated browser. Check keyboard navigation, score updates, correct and incorrect feedback, and the results screen. Fix any failures, then report what passed.
+Realiza una prueba rápida del cuestionario en el navegador integrado. Comprueba la navegación con teclado, las actualizaciones de la puntuación, los mensajes para respuestas correctas e incorrectas y la pantalla de resultados. Corrige los fallos y, después, informa de lo que ha superado la prueba.
 ```
 
 1. Observa el explorador integrado mientras el agente recorre las preguntas.

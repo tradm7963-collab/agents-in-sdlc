@@ -20,7 +20,7 @@ En esta lección:
 Envía el siguiente prompt en tu sesión `space-quiz`:
 
 ```plaintext
-Create a space exploration quiz with 10 questions, a progress bar, score counter, and colorful animated feedback (green for correct, red shake for wrong). Show a results screen with emoji reaction at the end. Center in a narrow column. Single index.html, no server/dependencies. Polished, sans-serif, 14–16px body, prefers-color-scheme. Open in the integrated browser.
+Crea un cuestionario sobre exploración espacial con 10 preguntas, una barra de progreso, un contador de puntuación y mensajes animados y coloridos (verde para las respuestas correctas y una sacudida roja para las incorrectas). Al final, muestra una pantalla de resultados con una reacción mediante un emoji. Centra el contenido en una columna estrecha. Usa un único archivo `index.html`, sin servidor ni dependencias. Dale un acabado cuidado, usa una fuente sans serif, un tamaño de texto de 14–16 px y respeta `prefers-color-scheme`. Ábrelo en el navegador integrado.
 ```
 
 Cuando el agente termine, responde a varias preguntas y confirma que:

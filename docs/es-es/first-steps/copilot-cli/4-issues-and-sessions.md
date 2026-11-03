@@ -20,7 +20,7 @@ En esta lección:
 Envía el siguiente prompt:
 
 ```plaintext
-Review the space quiz and create three focused GitHub issues with clear titles, user-focused descriptions, and acceptance criteria. Do not implement them yet.
+Revisa el cuestionario espacial y crea tres incidencias concretas de GitHub, con títulos claros, descripciones centradas en el usuario y criterios de aceptación. No las implementes todavía.
 ```
 
 ## Trabaja en la primera incidencia en esta sesión

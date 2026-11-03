@@ -49,19 +49,19 @@ Comece pelo canvas Database Explorer existente no projeto. Usar um exemplo funci
 4. Crie uma sessão em uma **new working tree** baseada na `main` atualizada e selecione o modo **Interactive**.
 5. Peça ao Copilot que prepare o banco de dados local, se necessário, e abra o canvas existente sem alterá-lo:
 
-      ```plaintext
-            Set up the local database if needed, then open the repository's Database Explorer canvas. Do not change any files.
-      ```
+   ```plaintext
+   Set up the local database if needed, then open the repository's Database Explorer canvas. Do not change any files.
+   ```
 
 6. No Database Explorer, navegue pelas tabelas disponíveis e selecione `games`.
 7. Execute uma consulta somente leitura que mostre cinco jogos com as melhores avaliações:
 
-      ```sql
-            SELECT title, star_rating
-            FROM games
-            ORDER BY star_rating DESC
-            LIMIT 5;
-      ```
+   ```sql
+   SELECT title, star_rating
+   FROM games
+   ORDER BY star_rating DESC
+   LIMIT 5;
+   ```
 
 8. Confirme que os resultados contêm no máximo cinco jogos em ordem decrescente de avaliação.
 9. Abra **Files** e examine `.github/extensions/database-explorer/extension.mjs`. Observe como o canvas é armazenado com o projeto e restringe as consultas a instruções `SELECT` e `WITH` somente leitura.

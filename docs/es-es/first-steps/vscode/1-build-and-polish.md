@@ -19,7 +19,7 @@ En esta lección:
 Envía el siguiente prompt en Copilot Chat:
 
 ```plaintext
-Create a colorful, accessible space exploration quiz with 10 questions in a single index.html. Add a progress bar, score counter, animated correct and incorrect feedback, and a results screen. Use no server or dependencies. Open it in the VS Code integrated browser.
+Crea un cuestionario colorido y accesible sobre exploración espacial con 10 preguntas en un único archivo `index.html`. Añade una barra de progreso, un contador de puntuación, mensajes animados para las respuestas correctas e incorrectas y una pantalla de resultados. No uses servidor ni dependencias. Ábrelo en el navegador integrado de VS Code.
 ```
 
 1. Revisa el archivo generado en el editor.

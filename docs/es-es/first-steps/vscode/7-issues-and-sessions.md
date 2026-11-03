@@ -19,7 +19,7 @@ En esta lección:
 Envía el siguiente prompt:
 
 ```plaintext
-Review the space quiz and suggest three focused feature ideas. Use the GitHub tools to create a separate issue for each with a clear title, user-focused description, and acceptance criteria. Do not implement them yet.
+Revisa el cuestionario espacial y sugiere tres ideas concretas de funcionalidades. Usa las herramientas de GitHub para crear una incidencia independiente para cada una, con un título claro, una descripción centrada en el usuario y criterios de aceptación. No las implementes todavía.
 ```
 
 ## Implementa una incidencia
